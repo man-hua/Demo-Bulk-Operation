@@ -64,6 +64,7 @@ if (true) {
         false)
 }
 
+WebUI.takeFullPageScreenshotAsCheckpoint("Screen shot")
 WebUI.takeScreenshot()
 WebUI.closeBrowser()
 
