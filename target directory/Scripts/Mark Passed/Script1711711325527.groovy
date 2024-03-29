@@ -7,6 +7,4 @@ WebUI.openBrowser(GlobalVariable.G_SiteURL)
 
 WebUI.takeScreenshot()
 
-KeywordUtil.markFailedAndStop("Mark Failed And Stop")
-
-WebUI.openBrowser(GlobalVariable.G_SiteURL)
+KeywordUtil.markPassed("Mark Failed And Stop")
