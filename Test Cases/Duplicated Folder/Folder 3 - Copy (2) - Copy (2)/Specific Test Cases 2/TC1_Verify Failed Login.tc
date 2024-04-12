@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Verify Failed Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acd027ac-a636-4e95-a4dd-c16ac9906bb4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d41f43bb-ac9b-4735-b159-23f0db2e372b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>279beaa5-eda2-4299-aed8-e072113c2249</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'abc'</defaultValue>
+      <description></description>
+      <id>d41f43bb-ac9b-4735-b159-23f0db2e372b</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc'</defaultValue>
+      <description></description>
+      <id>279beaa5-eda2-4299-aed8-e072113c2249</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
