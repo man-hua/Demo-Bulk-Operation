@@ -17,3 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser("https://github.com/")
+
+String url = WebUI.getUrl()
+
+WebUI.verifyMatch(url, "https://github.com/", false)
+
+WebUI.closeBrowser()

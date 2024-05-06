@@ -18,3 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser("https://github.com/")
+
+String title = WebUI.getWindowTitle()
+
+WebUI.verifyMatch(title, "GitHub: Let’s build from here · GitHub", false)
+
+WebUI.closeBrowser()
