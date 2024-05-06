@@ -32,7 +32,7 @@ WebUI.openBrowser(GlobalVariable.G_SiteURL)
 
 WebUI.takeScreenshotAsCheckpoint("login page")
 
-WebUI.callTestCase(findTestCase('Common Test Cases/Login'), [('Username') : 'John Doe', ('Password') : 'ThisIsNotAPassword'], 
+WebUI.callTestCase(findTestCase('null'), [('Username') : 'John Doe', ('Password') : 'ThisIsNotAPassword'], 
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.comment('And Appointment page is displayed')
