@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Specific Test Cases</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6675011-92f4-4e8f-bf3d-148afc7367d2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b2bfb46c-e314-4ac1-85b7-9ac6a38207bf</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b2bfb46c-e314-4ac1-85b7-9ac6a38207bf</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>columnName</value>
+      <variableId>f4773d28-0e36-425a-81fd-f9f169e2e07a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4773d28-0e36-425a-81fd-f9f169e2e07a</id>
+      <masked>false</masked>
+      <name>columnName</name>
+   </variable>
+</TestCaseEntity>
