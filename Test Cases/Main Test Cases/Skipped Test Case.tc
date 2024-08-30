@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Skipped Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ee217a63-e0a8-466d-87f9-4e2cce0a6db0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21d426d4-7f8c-40ab-8a43-1dcf95d5e65f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'true'</defaultValue>
+      <description></description>
+      <id>21d426d4-7f8c-40ab-8a43-1dcf95d5e65f</id>
+      <masked>false</masked>
+      <name>isSkipped</name>
+   </variable>
+</TestCaseEntity>
