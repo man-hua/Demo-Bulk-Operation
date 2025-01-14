@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>This description should be view in G2 and G3</description>
    <name>Specific Test Cases</name>
    <tag></tag>
    <integratedEntity>
