@@ -1,8 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-New Test Suite,Firefox 123.0,,,31-05-2024 15:41:11,31-05-2024 15:41:40,28.418s,PASSED
-,,,,,,,
-Test Cases/New Test Case,Firefox 123.0,,,31-05-2024 15:41:11,31-05-2024 15:41:31,19.671s,PASSED
-openBrowser(url),Firefox 123.0,,,31-05-2024 15:41:12,31-05-2024 15:41:31,19.540s,PASSED
-,,,,,,,
-Test Cases/New Test Case - Copy,Firefox 123.0,,,31-05-2024 15:41:31,31-05-2024 15:41:40,8.560s,PASSED
-openBrowser(url),Firefox 123.0,,,31-05-2024 15:41:31,31-05-2024 15:41:40,8.535s,PASSED

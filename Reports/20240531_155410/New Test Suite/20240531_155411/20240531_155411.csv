@@ -1,8 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-New Test Suite,,,,31-05-2024 15:54:20,31-05-2024 15:54:20,0.364s,PASSED
-,,,,,,,
-Test Cases/New Test Case,,,,31-05-2024 15:54:20,31-05-2024 15:54:20,0.140s,PASSED
-return null,,,,31-05-2024 15:54:20,31-05-2024 15:54:20,0.002s,PASSED
-,,,,,,,
-Test Cases/New Test Case,,,,31-05-2024 15:54:20,31-05-2024 15:54:20,0.030s,PASSED
-return null,,,,31-05-2024 15:54:20,31-05-2024 15:54:20,0.001s,PASSED
