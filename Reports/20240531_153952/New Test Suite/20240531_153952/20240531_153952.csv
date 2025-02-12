@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,31-05-2024 15:40:00,31-05-2024 15:40:24,23.697s,FAILED
+,,,,,,,
+Test Cases/New Test Case,,,,31-05-2024 15:40:12,31-05-2024 15:40:15,2.390s,FAILED
+openBrowser(url),,,,31-05-2024 15:40:12,31-05-2024 15:40:15,2.362s,FAILED
+,,,,,,,
+Test Cases/New Test Case - Copy,,,,31-05-2024 15:40:22,31-05-2024 15:40:24,2.313s,FAILED
+openBrowser(url),,,,31-05-2024 15:40:22,31-05-2024 15:40:24,2.297s,FAILED

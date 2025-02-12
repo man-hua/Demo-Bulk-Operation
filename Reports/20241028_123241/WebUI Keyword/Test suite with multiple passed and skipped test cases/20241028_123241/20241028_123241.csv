@@ -1,0 +1,226 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test suite with multiple passed and skipped test cases,,,,28-10-2024 12:32:48,28-10-2024 12:32:49,0.943s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:48,28-10-2024 12:32:49,0.097s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:48,28-10-2024 12:32:49,0.041s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.015s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.010s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.003s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.015s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.003s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.011s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.014s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.008s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.013s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.003s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.009s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.009s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.013s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.008s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.011s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.011s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.009s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.011s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.004s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.010s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.009s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.008s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.010s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.008s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.010s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.003s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.009s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.009s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.009s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.010s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.008s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.015s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.004s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.008s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.004s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.000s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.004s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.000s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.009s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.007s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.005s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.020s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.008s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.004s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.006s,PASSED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.001s,PASSED
+"markPassed(""Passed"")",,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.002s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.004s,SKIPPED
+Start listener action : skipTestCase,,,,28-10-2024 12:32:49,28-10-2024 12:32:49,0.000s,PASSED

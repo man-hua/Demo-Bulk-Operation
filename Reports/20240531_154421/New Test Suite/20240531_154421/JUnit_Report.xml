@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="20.582" tests="2" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="2" failures="0" errors="0" time="20.582" skipped="0" timestamp="31-05-2024T15:44:29" hostname="man.hua - ip-10-10-32-246.ap-southeast-1.compute.internal" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/man.hua/git/Katalon-test-management-testops/Reports/20240531_154421/New Test Suite/20240531_154421"/>
+         <property name="logFiles" value="/Users/man.hua/git/Katalon-test-management-testops/Reports/20240531_154421/New Test Suite/20240531_154421/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="man.hua - ip-10-10-32-246.ap-southeast-1.compute.internal"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Firefox 123.0"/>
+         <property name="hostAddress" value="10.10.32.246"/>
+         <property name="sessionId" value="5da4a0d3-a095-4eb3-acd5-2a7845809cef"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="11.363" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[31-05-2024T15:44:30 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+31-05-2024T15:44:30 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'http://demoaut.katalon.com/'
+
+31-05-2024T15:44:30 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+31-05-2024T15:44:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-05-2024T15:44:41 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/New Test Case copy" time="9.013" classname="Test Cases/New Test Case copy" status="PASSED">
+         <system-out><![CDATA[31-05-2024T15:44:41 - [TEST_CASE][PASSED] - Test Cases/New Test Case copy: Test Cases/New Test Case copy
+
+31-05-2024T15:44:41 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'http://demoaut.katalon.com/'
+
+31-05-2024T15:44:41 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+31-05-2024T15:44:42 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+31-05-2024T15:44:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+31-05-2024T15:44:50 - [MESSAGE][PASSED] - Browser is opened with url: 'http://demoaut.katalon.com/']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[31-05-2024T15:44:29 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/New Test Case copy]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

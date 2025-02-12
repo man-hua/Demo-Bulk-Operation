@@ -1,0 +1,2418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test suite with multiple passed and skipped test cases" time="286.843" tests="240" failures="0" errors="0">
+   <testsuite name="Test suite with multiple passed and skipped test cases" tests="240" failures="0" errors="0" time="286.843" skipped="120" timestamp="28-10-2024T15:16:24" hostname="man.hua - ip-192-168-1-13.ap-southeast-1.compute.internal" id="Test Suites/WebUI Keyword/Test suite with multiple passed and skipped test cases">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/man.hua/git/Katalon-test-management-testops/Reports/20241028_151617/WebUI Keyword/Test suite with multiple passed and skipped test cases/20241028_151617"/>
+         <property name="logFiles" value="/Users/man.hua/git/Katalon-test-management-testops/Reports/20241028_151617/WebUI Keyword/Test suite with multiple passed and skipped test cases/20241028_151617/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="man.hua - ip-192-168-1-13.ap-southeast-1.compute.internal"/>
+         <property name="hostAddress" value="192.168.1.13"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+      </properties>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.103" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.011" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.013" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.013" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.01" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.009" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.011" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.01" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.01" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.01" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.01" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.011" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.018" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.011" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.01" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.01" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.011" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.008" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.01" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.009" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.009" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.008" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.017" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:24 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped: 
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:24 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" time="0.008" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:25 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" time="3.99" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:25 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped: 
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:25 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" time="0.014" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" time="0.009" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" time="0.009" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped: 
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:16:29 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:16:29 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" time="140.08" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:16:29 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped: 
+
+28-10-2024T15:16:34 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" time="0.011" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" time="0.017" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" time="0.008" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped: 
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:49 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:49 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:49 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return passed" time="0.004" classname="Test Cases/WebUI Keyword/TC_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/TC_Return passed: Test Cases/WebUI Keyword/TC_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/TC_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/TC_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/TC_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return skipped: 
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:50 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" time="4.846" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:50 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return passed
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:50 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:55 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:55 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" time="0.007" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:55 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return passed
+
+28-10-2024T15:18:55 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:55 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:18:55 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:18:55 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" time="135.767" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:18:55 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return passed
+
+28-10-2024T15:18:55 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:18:55 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:21:10 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return skipped: 
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return skipped: 
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return skipped: 
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC9_Return passed
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:21:10 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" time="0.003" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC6_Return skipped: 
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC2_Return passed
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:21:10 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" time="0.006" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC7_Return passed
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:21:10 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC5_Return skipped: 
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC8_Return passed
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:21:10 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC1_Return skipped: 
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed" status="PASSED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][PASSED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed: Test Cases/WebUI Keyword/Skipped_Passed test cases/TC3_Return passed
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - markPassed("Passed"): Passed
+
+28-10-2024T15:21:10 - [MESSAGE][PASSED] - Passed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" time="0.004" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC4_Return skipped: 
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" time="0.005" classname="Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped" status="SKIPPED">
+         <system-out><![CDATA[28-10-2024T15:21:10 - [TEST_CASE][SKIPPED] - Test Cases/WebUI Keyword/Skipped_Passed test cases/TC10_Return skipped: 
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - Start listener action : skipTestCase: null
+
+28-10-2024T15:21:10 - [TEST_STEP][PASSED] - if (get("testCaseId").contains("Return skipped")): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[28-10-2024T15:16:24 - [TEST_SUITE][PASSED] - Test suite with multiple passed and skipped test cases:]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

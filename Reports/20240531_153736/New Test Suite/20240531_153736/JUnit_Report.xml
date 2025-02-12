@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite" time="0.441" tests="2" failures="0" errors="0">
+   <testsuite name="New Test Suite" tests="2" failures="0" errors="0" time="0.441" skipped="0" timestamp="31-05-2024T15:37:45" hostname="man.hua - ip-10-10-32-246.ap-southeast-1.compute.internal" id="Test Suites/New Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="/Users/man.hua/git/Katalon-test-management-testops/Reports/20240531_153736/New Test Suite/20240531_153736"/>
+         <property name="logFiles" value="/Users/man.hua/git/Katalon-test-management-testops/Reports/20240531_153736/New Test Suite/20240531_153736/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="man.hua - ip-10-10-32-246.ap-southeast-1.compute.internal"/>
+         <property name="hostAddress" value="10.10.32.246"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+      </properties>
+      <testcase name="Test Cases/New Test Case" time="0.157" classname="Test Cases/New Test Case" status="PASSED">
+         <system-out><![CDATA[31-05-2024T15:37:45 - [TEST_CASE][PASSED] - Test Cases/New Test Case: Test Cases/New Test Case
+
+31-05-2024T15:37:45 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/New Test Case - Copy" time="0.044" classname="Test Cases/New Test Case - Copy" status="PASSED">
+         <system-out><![CDATA[31-05-2024T15:37:45 - [TEST_CASE][PASSED] - Test Cases/New Test Case - Copy: Test Cases/New Test Case - Copy
+
+31-05-2024T15:37:45 - [TEST_STEP][PASSED] - return null: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[31-05-2024T15:37:45 - [TEST_SUITE][PASSED] - New Test Suite: Test Cases/New Test Case - Copy]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

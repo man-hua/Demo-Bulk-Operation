@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 125.0.0.0,,,05-06-2024 10:40:56,05-06-2024 10:41:22,25.224s,PASSED
+,,,,,,,
+Test Cases/default/TC00_OpenBrowser,Chrome 125.0.0.0,,,05-06-2024 10:40:56,05-06-2024 10:41:11,14.406s,PASSED
+sampleKeyword.sample.openBrowser(url),Chrome 125.0.0.0,,,05-06-2024 10:40:57,05-06-2024 10:41:11,14.303s,PASSED
+,,,,,,,
+Test Cases/default/TC01_ClickButton,Chrome 125.0.0.0,"Common test case to click button
+Test step:
+	- Open browser
+	- Click button
+	- Verify healthcare label
+	- Close browser
+
+Expected result: Actual healthcare label match with the expected result: ""CURA Healthcare Service""",chrome,05-06-2024 10:41:11,05-06-2024 10:41:22,10.671s,PASSED
+openBrowser(url),Chrome 125.0.0.0,,,05-06-2024 10:41:11,05-06-2024 10:41:20,8.981s,PASSED
+healthcareLabel = new com.kms.katalon.core.testobject.TestObject(),Chrome 125.0.0.0,,,05-06-2024 10:41:20,05-06-2024 10:41:20,0.010s,PASSED
+"healthcareLabel.setSelectorValue(XPATH, ""//h1[text()='CURA Healthcare Service']"")",Chrome 125.0.0.0,,,05-06-2024 10:41:20,05-06-2024 10:41:20,0.007s,PASSED
+healthcareLabel.setSelectorMethod(XPATH),Chrome 125.0.0.0,,,05-06-2024 10:41:20,05-06-2024 10:41:20,0.003s,PASSED
+"verifyMatch(getText(healthcareLabel), ""CURA Healthcare Service"", false)",Chrome 125.0.0.0,,,05-06-2024 10:41:20,05-06-2024 10:41:20,0.306s,PASSED
+"logInfo(""Healthcare label: "" + getText(healthcareLabel))",Chrome 125.0.0.0,,,05-06-2024 10:41:20,05-06-2024 10:41:21,0.254s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""), CONTINUE_ON_FAILURE)",Chrome 125.0.0.0,,,05-06-2024 10:41:21,05-06-2024 10:41:22,0.926s,PASSED

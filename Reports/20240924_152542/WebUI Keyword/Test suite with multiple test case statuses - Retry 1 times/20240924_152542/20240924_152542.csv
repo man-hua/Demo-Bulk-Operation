@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test suite with multiple test case statuses - Retry 1 times,,,,2024-09-24 15:25:51,2024-09-24 15:25:52,0.494s,ERROR
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return error,,,,2024-09-24 15:25:51,2024-09-24 15:25:51,0.017s,ERROR
+Start listener action : skipTestCase,,,,2024-09-24 15:25:51,2024-09-24 15:25:51,0.002s,PASSED
+"markErrorAndStop(""Error"")",,,,2024-09-24 15:25:51,2024-09-24 15:25:51,0.003s,ERROR
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return passed,,,,2024-09-24 15:25:51,2024-09-24 15:25:51,0.038s,PASSED
+Start listener action : skipTestCase,,,,2024-09-24 15:25:51,2024-09-24 15:25:51,0.001s,PASSED
+"markPassed(""Passed"")",,,,2024-09-24 15:25:51,2024-09-24 15:25:51,0.005s,PASSED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return failed,,,,2024-09-24 15:25:51,2024-09-24 15:25:52,0.015s,FAILED
+Start listener action : skipTestCase,,,,2024-09-24 15:25:51,2024-09-24 15:25:51,0.002s,PASSED
+"markFailed(""Failed"")",,,,2024-09-24 15:25:51,2024-09-24 15:25:51,0.002s,FAILED
+,,,,,,,
+Test Cases/WebUI Keyword/TC_Return skipped,,,,2024-09-24 15:25:52,2024-09-24 15:25:52,0.008s,SKIPPED
+Start listener action : skipTestCase,,,,2024-09-24 15:25:52,2024-09-24 15:25:52,0.002s,PASSED

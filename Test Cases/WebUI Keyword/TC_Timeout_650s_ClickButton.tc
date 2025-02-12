@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Common test case to click button
+Test step:
+	- Open browser
+	- Click button
+	- Verify healthcare label
+	- Close browser
+
+Expected result: Actual healthcare label match with the expected result: &quot;CURA Healthcare Service&quot;</description>
+   <name>TC_Timeout_650s_ClickButton</name>
+   <tag>chrome</tag>
+   <comment></comment>
+   <testCaseGuid>52b68056-b846-4369-bc1b-b6082a61b583</testCaseGuid>
+</TestCaseEntity>

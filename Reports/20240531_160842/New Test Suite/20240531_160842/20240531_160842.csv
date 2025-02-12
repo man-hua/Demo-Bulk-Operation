@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Firefox 123.0,,,31-05-2024 16:08:51,31-05-2024 16:09:02,11.354s,ERROR
+,,,,,,,
+Test Cases/New Test Case,Firefox 123.0,,,31-05-2024 16:08:51,31-05-2024 16:09:02,10.915s,PASSED
+openBrowser(url),Firefox 123.0,,,31-05-2024 16:08:51,31-05-2024 16:09:02,10.736s,PASSED
+,,,,,,,
+Test Cases/New Test Case copy,Firefox 123.0,,,31-05-2024 16:09:02,31-05-2024 16:09:02,0.025s,ERROR
+"markError("""")",Firefox 123.0,,,31-05-2024 16:09:02,31-05-2024 16:09:02,0.007s,ERROR
