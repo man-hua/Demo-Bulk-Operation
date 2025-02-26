@@ -3,6 +3,17 @@
    <description></description>
    <name>Mark Failed and Stop</name>
    <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>15</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>9a76b01d-13aa-40bf-9c35-03fa93c2c639</testCaseGuid>
 </TestCaseEntity>
