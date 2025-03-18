@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>MANUAL</type>
+    <description></description>
+    <tag></tag>
+    <comment></comment>
+    <name>Test Case in git</name>
+    <testCaseGuid>8580fea6-c227-43e0-9df4-2ec0f990878a</testCaseGuid>
+</TestCaseEntity>
+
