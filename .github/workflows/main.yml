@@ -19,13 +19,10 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-    - run: 
-        ls ${{ github.workspace }}
-        ls ${{ github.workspace }}/..
     - name: Katalon Studio Github Action
-      uses: katalon-studio/katalon-studio-github-action@v2
+      uses: katalon-studio/katalon-studio-github-action@v4.0
       with:
-          version: '7.5.5'
+          version: '9.6.0'
           projectPath: '${{ github.workspace }}'
           args: '-noSplash -retry=0 -testSuitePath="Test Suites/healthcare-tests - TS_RegressionTest.ts" -apiKey="${{ github.event.inputs.api_key }}" --config -webui.autoUpdateDrivers=true'
     - name: 'Upload Artifact'
