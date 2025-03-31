@@ -29,19 +29,24 @@ jobs:
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v4
       with:
-        name: Reports
-        path: |
-          Reports/
+        name: all-reports-${{ github.run_id }}
+        path: Reports
         retention-days: 5
     
   upload_report:
     runs-on: ubuntu-latest
     needs: process_report
     steps:
+      - name: Download Reports
+        uses: actions/download-artifact@v3
+        with:
+          name: all-reports-${{ github.run_id }}
+          path: processed_reports
+          
       - name: Katalon Report Uploader
         uses: katalon-studio/report-uploader@v0.0.8
         env:
           PASSWORD: ${{ github.event.inputs.api_key }}
           PROJECT_ID: ${{ github.event.inputs.project_id }}
           TYPE: katalon
-          REPORT_PATH: Reports
+          REPORT_PATH: processed_reports
