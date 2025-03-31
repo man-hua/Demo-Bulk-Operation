@@ -29,9 +29,9 @@ jobs:
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v4
       with:
-        name: reports
+        name: Reports
         path: |
-          reports/
+          Reports/
         retention-days: 5
     
   upload_report:
@@ -44,4 +44,4 @@ jobs:
           PASSWORD: ${{ github.event.inputs.api_key }}
           PROJECT_ID: ${{ github.event.inputs.project_id }}
           TYPE: katalon
-          REPORT_PATH: reports
+          REPORT_PATH: Reports
