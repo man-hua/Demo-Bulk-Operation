@@ -24,7 +24,7 @@ jobs:
       with:
           version: '9.6.0'
           projectPath: '${{ github.workspace }}'
-          args: '-noSplash -retry=0 -testSuitePath="Test Suites/healthcare-tests - TS_RegressionTest.ts" -apiKey="${{ github.event.inputs.api_key }}" --config -webui.autoUpdateDrivers=true'
+          args: '-noSplash -retry=0 -testSuitePath="Test Suites/healthcare-tests - TS_RegressionTest.ts" -apiKey="${{ github.event.inputs.api_key }}" -browserType="Chrome" --config -webui.autoUpdateDrivers=true'
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v4
       with:
