@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TestCaseEntity>
+    <type>AUTOMATED</type>
+    <description>This description should be view in G2 and G3</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Specific Test Cases (1)</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>d26b970d-43d2-4f9c-abb3-ccc72f18ca84</testCaseGuid>
+    <integratedEntity>
+        <productName>Azure</productName>
+        <properties>
+            <entry>
+                <key>azure.testcase.ids</key>
+                <value>3</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+    <testDataLinks>
+        <combinationType>ONE</combinationType>
+        <id>b2bfb46c-e314-4ac1-85b7-9ac6a38207bf</id>
+        <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+        </iterationEntity>
+        <testDataId>Data Files/New Test Data</testDataId>
+    </testDataLinks>
+    <variableLinks>
+        <testDataLinkId>0e0dcb11-0c6e-4f99-91e5-352b4bbd9025</testDataLinkId>
+        <type>DATA_COLUMN</type>
+        <value>columnName</value>
+        <variableId>853ef51d-a5ad-4868-8aef-acd6445dc9cc</variableId>
+    </variableLinks>
+    <variable>
+        <defaultValue></defaultValue>
+        <description></description>
+        <id>853ef51d-a5ad-4868-8aef-acd6445dc9cc</id>
+        <masked>false</masked>
+        <name>columnName</name>
+    </variable>
+</TestCaseEntity>
+
