@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This description should be view in G3</description>
+   <name>Mark Failed and Stop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74d1d762-0f15-11f0-a9b6-fac102464913</testCaseGuid>
+</TestCaseEntity>
