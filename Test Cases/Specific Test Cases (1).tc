@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This description should be view in G2 and G3</description>
+   <name>Specific Test Cases (1)</name>
+    <tag></tag>
+    <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b76ed36-0fa1-11f0-89b1-e76e08128af9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3b76eda4-0fa1-11f0-89b1-e76e08128af9</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+          <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>3b76eda4-0fa1-11f0-89b1-e76e08128af9</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>columnName</value>
+      <variableId>3b76edf4-0fa1-11f0-89b1-e76e08128af9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+       <description></description>
+      <id>3b76edf4-0fa1-11f0-89b1-e76e08128af9</id>
+      <masked>false</masked>
+      <name>columnName</name>
+   </variable>
+</TestCaseEntity>
