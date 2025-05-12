@@ -7,9 +7,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.0.1</modifiedVersion>
+   <modifiedVersion>10.2.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/man.hua/git/Demo-Bulk-Operation/Demo-Bulk-Operation.prj</projectFileLocation>
+   <projectFileLocation>/Users/nhi.ly/Downloads/project-katalon/Demo-Bulk-Operation/Demo-Bulk-Operation.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
